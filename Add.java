@@ -14,6 +14,7 @@ public class Add {
       int sum = a+b;
       System.out.print("sum=");
       System.out.print(sum);
+      obj.close();
     }
     
 }
